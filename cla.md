@@ -6,19 +6,11 @@ The purpose of this contributor agreement ("Agreement") is to clarify and docume
 
 ## 0. Preamble
 
-Software is deeply embedded in all aspects of our lives and it is important that it empower, rather than restrict us. Free Software gives everybody the rights to use, understand, adapt and share software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.
+In order to clarify the intellectual property license granted with Contributions from any person or entity, Kochava must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of Kochava; it does not change your rights to use your own Contributions for any other purpose.
 
-Development of Free Software can follow many patterns. In some cases whole development is handled by a sole programmer or a small group of people. But usually, the creation and maintenance of software is a complex process that requires the contribution of many individuals. This also affects who owns the rights to the software. In the latter case, rights in software are owned jointly by a great number of individuals.
+You accept and agree to the following terms and conditions for Your present and future Contributions submitted to Kochava. Except for the license granted herein to Kochava and recipients of software distributed by Kochava, You reserve all right, title, and interest in and to Your Contributions.
 
-To tackle this issue some projects require a full copyright assignment to be signed by all contributors. The problem with such assignments is that they often lack checks and balances that would protect the contributors from potential abuse of power from the new copyright holder.
-
-FSFE’s Fiduciary License Agreement (FLA) was created by the Free Software Foundation Europe e.V. with just that in mind – to concentrate all deciding power within one entity and prevent fragmentation of rights on one hand, while on the other preventing that single entity from abusing its power. The main aim is to ensure that the software covered under the FLA will forever remain Free Software.
-
-This process only serves for the transfer of economic rights. So-called moral rights (e.g. authors right to be identified as author) remain with the original author(s) and are inalienable.
-
-How to use this FLA
-If You are an employee and have created the Contribution as part of your employment, You need to have Your employer approve this Agreement or sign the Entity version of this document. If You do not own the Copyright in the entire work of authorship, any other author of the Contribution should also sign this – in any event, please contact Us at support@hayride.dev
-
+Please contact Us at support@hayride.dev if you have any questions.
 
 ## 1. Definitions
 
