@@ -70,7 +70,7 @@ You reserve the right to revoke the patent license stated in section 3.1 if We m
 ## 4. License obligations by Us
 We agree to (sub)license the Contribution or any Materials containing, based on or derived from your Contribution under the terms of any licenses the Free Software Foundation classifies as Free Software License and which are approved by the Open Source Initiative as Open Source licenses.
 
-More specifically and in strict accordance with the above paragraph, we agree to (sub)license the Contribution or any Materials containing, based on or derived from the Contribution only under the terms of the following license(s) AGPL-3.0, MIT (including any right to adopt any future version of a license if permitted).
+More specifically and in strict accordance with the above paragraph, we agree to (sub)license the Contribution or any Materials containing, based on or derived from the Contribution only under the terms of the following license(s) Apache-2.0, AGPL-3.0, MIT (including any right to adopt any future version of a license if permitted).
 
 We agree to license patents owned or controlled by You only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of any licenses the Free Software Foundation classifies as Free Software licenses and which are approved by the Open Source Initiative as Open Source licenses..
 
