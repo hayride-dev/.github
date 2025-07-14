@@ -59,46 +59,39 @@ Subject to the terms and conditions of this Agreement You hereby grant to Us and
 ### 3.2 Revocation of patent license
 You reserve the right to revoke the patent license stated in section 3.1 if We make any infringement claim that is targeted at your Contribution and not asserted for a Defensive Purpose. An assertion of claims of the Patents shall be considered for a "Defensive Purpose" if the claims are asserted against an entity that has filed, maintained, threatened, or voluntarily participated in a patent infringement lawsuit against Us or any of Our licensees.
 
-## 4. License obligations by Us
-We agree to (sub)license the Contribution or any Materials containing, based on or derived from your Contribution under the terms of any licenses the Free Software Foundation classifies as Free Software License and which are approved by the Open Source Initiative as Open Source licenses.
-
-More specifically and in strict accordance with the above paragraph, we agree to (sub)license the Contribution or any Materials containing, based on or derived from the Contribution only under the terms of the following license(s) Apache-2.0, AGPL-3.0, MIT (including any right to adopt any future version of a license if permitted).
-
-We agree to license patents owned or controlled by You only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of any licenses the Free Software Foundation classifies as Free Software licenses and which are approved by the Open Source Initiative as Open Source licenses..
-
-## 5. Disclaimer
+## 4. Disclaimer
 THE CONTRIBUTION IS PROVIDED "AS IS". MORE PARTICULARLY, ALL EXPRESS OR IMPLIED WARRANTIES INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT ARE EXPRESSLY DISCLAIMED BY YOU TO US AND BY US TO YOU. TO THE EXTENT THAT ANY SUCH WARRANTIES CANNOT BE DISCLAIMED, SUCH WARRANTY IS LIMITED IN DURATION AND EXTENT TO THE MINIMUM PERIOD AND EXTENT PERMITTED BY LAW.
 
-## 6. Consequential damage waiver
+## 5. Consequential damage waiver
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL YOU OR WE BE LIABLE FOR ANY LOSS OF PROFITS, LOSS OF ANTICIPATED SAVINGS, LOSS OF DATA, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL AND EXEMPLARY DAMAGES ARISING OUT OF THIS AGREEMENT REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
 
-## 7. Approximation of disclaimer and damage waiver
+## 6. Approximation of disclaimer and damage waiver
 IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 5. AND SECTION 6. CANNOT BE GIVEN LEGAL EFFECT UNDER APPLICABLE LOCAL LAW, REVIEWING COURTS SHALL APPLY LOCAL LAW THAT MOST CLOSELY APPROXIMATES AN ABSOLUTE WAIVER OF ALL CIVIL OR CONTRACTUAL LIABILITY IN CONNECTION WITH THE CONTRIBUTION.
 
-## 8. Term
+## 7. Term
 
-### 8.1
+### 7.1
 This Agreement shall come into effect upon Your acceptance of the terms and conditions.
 
-### 8.2 
+### 7.2
 This Agreement shall apply for the term of the copyright and patents licensed here. However, You shall have the right to terminate the Agreement if We do not fulfill the obligations as set forth in Section 4. Such termination must be made in writing.
 
-### 8.3 
+### 7.3
 In the event of a termination of this Agreement Sections 5., 6., 7., 8., and 9. shall survive such termination and shall remain in full force thereafter. For the avoidance of doubt, Free and Open Source Software (sub)licenses that have already been granted for Contributions at the date of the termination shall remain in full force after the termination of this Agreement.
 
-## 9. Miscellaneous
+## 8. Miscellaneous
 
-### 9.1
+### 8.1
 This Agreement and all disputes, claims, actions, suits or other proceedings arising out of this agreement or relating in any way to it shall be governed by the laws of United States, excluding its private international law provisions.
 
-### 9.2
+### 8.2
 This Agreement sets out the entire agreement between You and Us for Your Contributions to Us and overrides all other agreements or understandings.
 
-### 9.3
+### 8.3
 In case of Your death, this agreement shall continue with Your heirs. In case of more than one heir, all heirs must exercise their rights through a commonly authorized person.
 
-### 9.4
+### 8.4
 If any provision of this Agreement is found void and unenforceable, such provision will be replaced to the extent possible with a provision that comes closest to the meaning of the original provision and that is enforceable. The terms and conditions set forth in this Agreement shall apply notwithstanding any failure of essential purpose of this Agreement or any limited remedy to the maximum extent possible under law.
 
-### 9.5
+### 8.5
 You agree to notify Us of any facts or circumstances of which you become aware that would make this Agreement inaccurate in any respect.
